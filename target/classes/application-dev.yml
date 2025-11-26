@@ -8,7 +8,7 @@ spring:
 
     # Windoows
     # url : jdbc:mysql://localhost:3306/PETCLINIC_DB?useSSL=false&serverTimezone=UTC
-    username: root # admin
+    username: dev # admin
     password:      # A$dmin123
 
     platform: mysql
