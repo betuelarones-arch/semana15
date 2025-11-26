@@ -8,8 +8,8 @@ spring:
 
     # Windoows
     # url : jdbc:mysql://localhost:3306/PETCLINIC_DB?useSSL=false&serverTimezone=UTC
-    username: dev # admin
-    password:      # A$dmin123
+    username: admin
+    password: A$dmin123
 
     platform: mysql
     initialization-mode: always
